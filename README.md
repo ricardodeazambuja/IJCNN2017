@@ -32,7 +32,7 @@ OBS:
 - [Dynamic Time Warping example](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/DTW_Visualisation_Example.ipynb)
 
 Preprint version:  
-- [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017-2/raw/master/IJCNN2017_draft.pdf)
+- [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017/raw/master/IJCNN2017_draft.pdf)
 
 
 
