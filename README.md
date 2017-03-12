@@ -2,7 +2,7 @@
 All the source code used for the paper.
 
 
-# Experiments used for the paper submitted to [IJCNN2017](http://www.ijcnn.org/)
+# Experiments used for the paper accepted for [IJCNN2017](http://www.ijcnn.org/)
 # Short-Term Plasticity in a Liquid State Machine Biomimetic Robot Arm Controller
 
 ## Abstract:
@@ -32,7 +32,7 @@ OBS:
 - [Dynamic Time Warping example](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/DTW_Visualisation_Example.ipynb)
 
 Preprint version:  
-???
+- [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017-2/raw/master/IJCNN2017_draft.pdf)
 
 
 
