@@ -34,7 +34,11 @@ OBS:
 Preprint version:  
 - [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017/raw/master/IJCNN2017_draft.pdf)
 
-
+Related works:  
+- https://github.com/ricardodeazambuja/ICONIP2016  
+- https://github.com/ricardodeazambuja/IJCNN2016  
+- https://github.com/ricardodeazambuja/IJCNN2017-2  
+- https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion
 
 
 
