@@ -1,8 +1,4 @@
-# IJCNN2017
-All the source code used for the paper.
-
-
-# Experiments used for the paper accepted for [IJCNN2017](http://www.ijcnn.org/)
+# Experiments used for the paper ~~accepted for~~ presented at [IJCNN2017](http://www.ijcnn.org/)
 # Short-Term Plasticity in a Liquid State Machine Biomimetic Robot Arm Controller
 
 ## Abstract:
@@ -24,17 +20,23 @@ Biological neural networks are able to control limbs in different scenarios, wit
 - [Set D](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/2DofArm_simulation_testing_learned_readouts-D-STP_OFF.ipynb)
 
 
-OBS:  
+## OBS:  
 - [Results analysis 1](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/___2DofArm_simulation_testing_analysis.ipynb)
 - [Results analysis 2](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/___2DofArm_simulation_testing_learned_readouts-analysis-metric-individual-sets.ipynb)
 - [Results analysis 3](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/___2DofArm_simulation_testing_learned_readouts-analysis.ipynb)
 - [Internal structure visualisation](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/2DofArm_simulation_3D_printing_of_liquid_structure.ipynb)
 - [Dynamic Time Warping example](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/DTW_Visualisation_Example.ipynb)
 
-Preprint version:  
+## Preprint version:  
 - [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017/raw/master/IJCNN2017_draft.pdf)
 
-Related works:  
+### Bibtex citation:
+https://github.com/ricardodeazambuja/IJCNN2017/blob/master/de_azambuja_stp_2017.bib
+
+### Final IEEE Xplore version:  
+http://ieeexplore.ieee.org/document/7966283/
+
+## Related works:  
 - https://github.com/ricardodeazambuja/ICONIP2016  
 - https://github.com/ricardodeazambuja/IJCNN2016  
 - https://github.com/ricardodeazambuja/IJCNN2017-2  
