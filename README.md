@@ -25,22 +25,23 @@ Biological neural networks are able to control limbs in different scenarios, wit
 - [Results analysis 2](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/___2DofArm_simulation_testing_learned_readouts-analysis-metric-individual-sets.ipynb)
 - [Results analysis 3](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/___2DofArm_simulation_testing_learned_readouts-analysis.ipynb)
 - [Internal structure visualisation](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/2DofArm_simulation_3D_printing_of_liquid_structure.ipynb)
-- [Dynamic Time Warping example](https://github.com/ricardodeazambuja/IJCNN2017/blob/master/DTW_Visualisation_Example.ipynb)
+- [BEE SNN simulator](https://github.com/ricardodeazambuja/BEE)
+- [Dynamic Time Warping Library](https://github.com/ricardodeazambuja/DTW)
 
 ## Preprint version:  
 - [IJCNN2017_draft.pdf](https://github.com/ricardodeazambuja/IJCNN2017/raw/master/IJCNN2017_draft.pdf)
 
-### Bibtex citation:
+## Bibtex citation:
 https://github.com/ricardodeazambuja/IJCNN2017/blob/master/de_azambuja_stp_2017.bib
 
-### Final IEEE Xplore version:  
+## Final IEEE Xplore version:  
 http://ieeexplore.ieee.org/document/7966283/
 
-## Related works:  
-- https://github.com/ricardodeazambuja/ICONIP2016  
-- https://github.com/ricardodeazambuja/IJCNN2016  
-- https://github.com/ricardodeazambuja/IJCNN2017-2  
-- https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion
+## Related works:
+- [Graceful Degradation under Noise on Brain Inspired Robot Controllers](https://github.com/ricardodeazambuja/ICONIP2016)
+- [Diverse, Noisy and Parallel: a New Spiking Neural Network Approach for Humanoid Robot Control](https://github.com/ricardodeazambuja/IJCNN2016)
+- [Neurorobotic Simulations on the Degradation of Multiple Column Liquid State Machines](https://github.com/ricardodeazambuja/IJCNN2017-2)
+- [Sensor Fusion Approach Using Liquid StateMachines for Positioning Control](https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion)
 
 
 
